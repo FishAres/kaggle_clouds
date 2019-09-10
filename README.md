@@ -14,3 +14,4 @@
     * Can add a discriminative network that's fed the reconstructed image.
     * This could work kind of like paired inverse - forward models in Jordan & Rumelhart
     
+Obviously we can use samples from the cVAE for data augmentation too..
